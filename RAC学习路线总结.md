@@ -2,7 +2,7 @@
 
 最近一直在看RAC的文章，以下是我看的博客，给大家一些参考，难度依次升高。
 
-参考链接是以前一篇巧神的博客：[ReactiveCocoa 讨论会](https://blog.devtang.com/2016/01/03/reactive-cocoa-discussion/),因为我主要是看了美团的技术博客，所以大部分总结的都是关于美团技术博客的文章，如果大家对我的学习路线不敢兴趣，可以坐[直通车](https://tech.meituan.com/tag/ReactiveCocoa)，直接学习。
+参考链接是以前一篇巧神的博客：[ReactiveCocoa 讨论会](https://blog.devtang.com/2016/01/03/reactive-cocoa-discussion/),因为我主要是看了美团的技术博客，所以大部分总结的都是关于美团技术博客的文章，如果大家对我的学习路线不敢兴趣，可以坐[直通车](https://tech.meituan.com/tags/reactivecocoa.html)，直接学习。
 
 以下是我觉得受益匪浅的博客地址：
 
