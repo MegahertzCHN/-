@@ -26,9 +26,10 @@
 		* [李忠的博客](https://limboy.me/)
 	* 美团
 		* [美团关于RAC的博客](https://tech.meituan.com/tags/reactivecocoa.html)
+		* [ReactiveCocoa核心元素与信号流](https://zhuanlan.zhihu.com/p/22959809)
 	* 雷纯峰
 		* [《ReactiveCocoa v2.5 源码解析之架构总览》](http://blog.leichunfeng.com/blog/2015/12/25/reactivecocoa-v2-dot-5-yuan-ma-jie-xi-zhi-jia-gou-zong-lan/)
-		* [Functor、Applicative 和 Monad》](http://blog.leichunfeng.com/blog/2015/11/08/functor-applicative-and-monad/ )
+		* [《Functor、Applicative 和 Monad》](http://blog.leichunfeng.com/blog/2015/11/08/functor-applicative-and-monad/ )
 	* Raywenderlich
 		* [ReactiveCocoa Tutorial – The Definitive Introduction: Part 1/2](https://www.raywenderlich.com/2493-reactivecocoa-tutorial-the-definitive-introduction-part-1-2)  
     	* [ReactiveCocoa Tutorial – The Definitive Introduction: Part 2/2](https://www.raywenderlich.com/2490-reactivecocoa-tutorial-the-definitive-introduction-part-2-2)
