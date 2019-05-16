@@ -35,6 +35,8 @@
     	* [ReactiveCocoa Tutorial – The Definitive Introduction: Part 2/2](https://www.raywenderlich.com/2490-reactivecocoa-tutorial-the-definitive-introduction-part-2-2)
     	* [MVVM Tutorial with ReactiveCocoa: Part 1/2](https://www.raywenderlich.com/2346-mvvm-tutorial-with-reactivecocoa-part-1-2)
     	* [MVVM Tutorial with ReactiveCocoa: Part 2/2](https://www.raywenderlich.com/2345-mvvm-tutorial-with-reactivecocoa-part-2-2)
+   	* 戴铭
+	   	* [iOS函数响应式编程以及ReactiveCocoa的使用](https://ming1016.github.io/2016/08/09/how-to-use-reactivecocoa/)
 	* RAC图书
 		* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 
@@ -45,6 +47,9 @@
 	* [Threading Programming Guide(2)](http://yulingtianxia.com/blog/2017/09/17/Threading-Programming-Guide-2/) 
 	* [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
 * RunTime
+* 学习资料
+	* [笔试面试知识整理](https://hit-alibaba.github.io/interview/)
+
 
 
 ## ReactNative
@@ -63,6 +68,9 @@
 	* 
 * ReactNative
 	* [React Native工程中TSLint静态检查工具的探索之路](https://tech.meituan.com/2019/01/17/exploring-the-tslint-static-checking-tool-on-the-react-native-project.html)
+
+## 公共的API
+* [豆瓣列表](https://api.douban.com/v2/movie/in_theaters?apikey=0b2bdeda43b5688921839c8ecb20399b&city=%E5%8C%97%E4%BA%AC&start=0&count=100&client=&udid=)
 
 ## 欣赏的Blog
 #### 后起之秀（还在更新）
