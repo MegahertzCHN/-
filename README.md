@@ -30,13 +30,18 @@
 	* 雷纯峰
 		* [《ReactiveCocoa v2.5 源码解析之架构总览》](http://blog.leichunfeng.com/blog/2015/12/25/reactivecocoa-v2-dot-5-yuan-ma-jie-xi-zhi-jia-gou-zong-lan/)
 		* [《Functor、Applicative 和 Monad》](http://blog.leichunfeng.com/blog/2015/11/08/functor-applicative-and-monad/ )
-	* Raywenderlich
+    * Raywenderlich
 		* [ReactiveCocoa Tutorial – The Definitive Introduction: Part 1/2](https://www.raywenderlich.com/2493-reactivecocoa-tutorial-the-definitive-introduction-part-1-2)  
     	* [ReactiveCocoa Tutorial – The Definitive Introduction: Part 2/2](https://www.raywenderlich.com/2490-reactivecocoa-tutorial-the-definitive-introduction-part-2-2)
     	* [MVVM Tutorial with ReactiveCocoa: Part 1/2](https://www.raywenderlich.com/2346-mvvm-tutorial-with-reactivecocoa-part-1-2)
     	* [MVVM Tutorial with ReactiveCocoa: Part 2/2](https://www.raywenderlich.com/2345-mvvm-tutorial-with-reactivecocoa-part-2-2)
-   	* 戴铭
-	   	* [iOS函数响应式编程以及ReactiveCocoa的使用](https://ming1016.github.io/2016/08/09/how-to-use-reactivecocoa/)
+    * 戴铭
+    	* [iOS函数响应式编程以及ReactiveCocoa的使用](https://ming1016.github.io/2016/08/09/how-to-use-reactivecocoa/)
+    * 绿梨子红苹果
+    	* [RAC中用RACCommand处理指令](http://blog.harrisonxi.com/2017/09/RAC%E4%B8%AD%E7%94%A8RACCommand%E5%A4%84%E7%90%86%E6%8C%87%E4%BB%A4.html)
+    * 南峰子
+     * [MVVM Tutorial with ReactiveCocoa: Part 1/2 译文](https://southpeak.github.io/2014/08/08/mvvm-tutorial-with-reactivecocoa-1/)
+     * [MVVM Tutorial with ReactiveCocoa: Part 2/2 译文](https://southpeak.github.io/2014/08/12/mvvm-tutorial-with-reactivecocoa-2/)
 	* RAC图书
 		* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 
@@ -48,7 +53,7 @@
 	* [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
 * RunTime
 * 学习资料
-	* [笔试面试知识整理](https://hit-alibaba.github.io/interview/)
+	* [HIT-ALIBABA 笔试面试知识整理](https://hit-alibaba.github.io/interview/)
 
 
 
@@ -81,6 +86,7 @@
 |杨萧玉|http://yulingtianxia.com/|腾讯|---|自动测试|---|
 |chenyilong|https://www.jianshu.com/u/96a14318a4de|阿里|---|---|---|
 |唐巧|https://blog.devtang.com/|猿题库|---|---|---|
+|绿梨子红苹果|http://blog.harrisonxi.com/|阿里-天猫|bilibili|RAC|---|
 |---|---|---|---|---|---|
 
 #### 已经不更新
@@ -89,4 +95,5 @@
 |雷纯峰|http://blog.leichunfeng.com/|阿里|---|MVVM&&ReactiveCocoa|---|
 |郭曜源|https://blog.ibireme.com/|---|百度|RunLoop|---|
 |孙源|http://blog.sunnyxx.com/|百度|---|RunTime&RunLoop&面试&代码规范|---|
+|南峰子|https://southpeak.github.io/|京东金融|---|RAC|---|
 |---|---|---|---|---|---|
