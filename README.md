@@ -31,17 +31,22 @@
 		* [《ReactiveCocoa v2.5 源码解析之架构总览》](http://blog.leichunfeng.com/blog/2015/12/25/reactivecocoa-v2-dot-5-yuan-ma-jie-xi-zhi-jia-gou-zong-lan/)
 		* [《Functor、Applicative 和 Monad》](http://blog.leichunfeng.com/blog/2015/11/08/functor-applicative-and-monad/ )
     * Raywenderlich
-		* [ReactiveCocoa Tutorial – The Definitive Introduction: Part 1/2](https://www.raywenderlich.com/2493-reactivecocoa-tutorial-the-definitive-introduction-part-1-2)  
-    	* [ReactiveCocoa Tutorial – The Definitive Introduction: Part 2/2](https://www.raywenderlich.com/2490-reactivecocoa-tutorial-the-definitive-introduction-part-2-2)
-    	* [MVVM Tutorial with ReactiveCocoa: Part 1/2](https://www.raywenderlich.com/2346-mvvm-tutorial-with-reactivecocoa-part-1-2)
-    	* [MVVM Tutorial with ReactiveCocoa: Part 2/2](https://www.raywenderlich.com/2345-mvvm-tutorial-with-reactivecocoa-part-2-2)
+        * [ReactiveCocoa Tutorial – The Definitive Introduction: Part 1/2](https://www.raywenderlich.com/2493-reactivecocoa-tutorial-the-definitive-introduction-part-1-2)  
+        * [ReactiveCocoa Tutorial – The Definitive Introduction: Part 2/2](https://www.raywenderlich.com/2490-reactivecocoa-tutorial-the-definitive-introduction-part-2-2)
+        * [MVVM Tutorial with ReactiveCocoa: Part 1/2](https://www.raywenderlich.com/2346-mvvm-tutorial-with-reactivecocoa-part-1-2)
+        * [MVVM Tutorial with ReactiveCocoa: Part 2/2](https://www.raywenderlich.com/2345-mvvm-tutorial-with-reactivecocoa-part-2-2)
     * 戴铭
-    	* [iOS函数响应式编程以及ReactiveCocoa的使用](https://ming1016.github.io/2016/08/09/how-to-use-reactivecocoa/)
+        * [iOS函数响应式编程以及ReactiveCocoa的使用](https://ming1016.github.io/2016/08/09/how-to-use-reactivecocoa/)
+        * [笔记](https://github.com/ming1016/study)
+        * [iOS函数响应式编程以及ReactiveCocoa的使用](https://github.com/ming1016/study/wiki/iOS%E5%87%BD%E6%95%B0%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B%E4%BB%A5%E5%8F%8AReactiveCocoa%E7%9A%84%E4%BD%BF%E7%94%A8)
+        * [ReactiveCocoa Essentials: Understanding and Using RACCommand](http://codeblog.shape.dk/blog/2013/12/05/reactivecocoa-essentials-understanding-and-using-raccommand/)
+        * [ReactiveCocoa Essentials: Understanding and Using RACCommand - 译文](http://zhoulingyu.com/2016/08/05/ReactiveCocoa%E6%A6%82%E8%A6%81%EF%BC%9A%E4%BA%86%E8%A7%A3%E5%92%8C%E4%BD%BF%E7%94%A8RACCommand/)
     * 绿梨子红苹果
-    	* [RAC中用RACCommand处理指令](http://blog.harrisonxi.com/2017/09/RAC%E4%B8%AD%E7%94%A8RACCommand%E5%A4%84%E7%90%86%E6%8C%87%E4%BB%A4.html)
+        * [RAC中用RACCommand处理指令](http://blog.harrisonxi.com/2017/09/RAC%E4%B8%AD%E7%94%A8RACCommand%E5%A4%84%E7%90%86%E6%8C%87%E4%BB%A4.html)
+        * [RAC中的冷信号与热信号](http://blog.harrisonxi.com/2017/09/RAC%E4%B8%AD%E7%9A%84%E5%86%B7%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%83%AD%E4%BF%A1%E5%8F%B7.html)
     * 南峰子
-     * [MVVM Tutorial with ReactiveCocoa: Part 1/2 译文](https://southpeak.github.io/2014/08/08/mvvm-tutorial-with-reactivecocoa-1/)
-     * [MVVM Tutorial with ReactiveCocoa: Part 2/2 译文](https://southpeak.github.io/2014/08/12/mvvm-tutorial-with-reactivecocoa-2/)
+         * [MVVM Tutorial with ReactiveCocoa: Part 1/2 译文](https://southpeak.github.io/2014/08/08/mvvm-tutorial-with-reactivecocoa-1/)
+        * [MVVM Tutorial with ReactiveCocoa: Part 2/2 译文](https://southpeak.github.io/2014/08/12/mvvm-tutorial-with-reactivecocoa-2/)
 	* RAC图书
 		* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 
@@ -49,12 +54,13 @@
 	* [iOS中__block 关键字的底层实现原理](https://www.jianshu.com/p/404ff9d3cd42)
 
 * RunLoop
-	* [Threading Programming Guide(2)](http://yulingtianxia.com/blog/2017/09/17/Threading-Programming-Guide-2/) 
-	* [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
+    * [Threading Programming Guide(2)](http://yulingtianxia.com/blog/2017/09/17/Threading-Programming-Guide-2/) 
+    * [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
 * RunTime
 * 学习资料
-	* [HIT-ALIBABA 笔试面试知识整理](https://hit-alibaba.github.io/interview/)
-
+    * [HIT-ALIBABA 笔试面试知识整理](https://hit-alibaba.github.io/interview/)
+    * [戴铭 - 笔记](https://github.com/ming1016/study)
+    * [阿里-p6-一面](https://mp.weixin.qq.com/s?__biz=MzUyNDM5ODI3OQ==&mid=2247483744&idx=1&sn=eb85b8e52612f5f413504856626c0df3&chksm=fa2cbac8cd5b33de463a12c1f188fc37f8d704898f6905fe210e43dbb0695281a8c855db8db2&scene=0&key=4f44f0a7d9d023745e10fd7e19ce672012c352f901a4282fa6bdac76408f87fb7d1184d9e0a3812196ca677c1aa45a6534761c482162516330111173fccb70a428cdbc6ae85d19f840b46a78f0436e46&ascene=0&uin=MTM1NjM2MjE2MA%3D%3D&devicetype=iMac)
 
 
 ## ReactNative
@@ -66,6 +72,7 @@
 * [Book - ProGit](https://git-scm.com/book/zh/v2)
 	* [3.6 Git 分支 - 变基](https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%8F%98%E5%9F%BA)
 	* [3.2 Git 分支 - 分支的新建与合并](https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%9A%84%E6%96%B0%E5%BB%BA%E4%B8%8E%E5%90%88%E5%B9%B6#r_basic_merging)
+* [git基本工作流及rebase介绍](http://blog.harrisonxi.com/2017/03/git%E5%9F%BA%E6%9C%AC%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%8F%8Arebase%E4%BB%8B%E7%BB%8D.html)
 
 ## 代码规范
 * iOS
