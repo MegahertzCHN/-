@@ -47,6 +47,8 @@
     * 南峰子
          * [MVVM Tutorial with ReactiveCocoa: Part 1/2 译文](https://southpeak.github.io/2014/08/08/mvvm-tutorial-with-reactivecocoa-1/)
         * [MVVM Tutorial with ReactiveCocoa: Part 2/2 译文](https://southpeak.github.io/2014/08/12/mvvm-tutorial-with-reactivecocoa-2/)
+    * 王隆帅
+        * [iOS Reactivecocoa（RAC）知其所以然（源码分析，一篇足以）](https://www.jianshu.com/p/15f9da230f82)
 	* RAC图书
 		* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 
@@ -64,7 +66,22 @@
 
 
 ## ReactNative
+* 框架升级0.4x->0.59，升级框架问题参考
+    * [React Native从0.39.x升级到0.49.x的那些事](https://www.cnblogs.com/yz1311/p/7889331.html)
+    * [rn代码升级坑记](https://blog.99diary.com/2018/03/29/rn%E4%BB%A3%E7%A0%81%E5%8D%87%E7%BA%A7%E5%9D%91%E8%AE%B0/)
+    * [React-Native 升级到 0.57.0 遇到的问题](https://kujiale-mobile.github.io/2018/10/29/rn-upgrade/)
+        * [How To Upgrade Project to React-Native 0.57 (RN 0.57)](https://medium.com/@oleg2014/how-to-upgrade-project-to-react-native-0-57-rn-0-57-1a7e9fd8098)
+        * [react-native-community/releases Changelog](https://github.com/react-native-community/releases/blob/master/CHANGELOG.md#057)
+* 美柚
+    * [美柚RN前端框架演进](http://lixingdecai.com/02/07/share_react_native/)
 
+## 小程序
+* [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+
+## 宝藏
+* 视频学习网站
+    * [好奇猫学院](https://haoqicat.com/)
+    
 	
 ## Git管理
 * [客户端单周发版下的多分支自动化管理与实践](https://tech.meituan.com/2019/01/10/traffic-git-branch-management.html)
