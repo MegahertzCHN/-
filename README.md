@@ -58,6 +58,8 @@
 * RunLoop
     * [Threading Programming Guide(2)](http://yulingtianxia.com/blog/2017/09/17/Threading-Programming-Guide-2/) 
     * [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
+    * [讨论 RunLoop 实现细节的视频 - 孙源](http://v.youku.com/v_show/id_XODgxODkzODI0.html)
+    * [在 iOS APP 崩溃时弹出友好提示框](https://blog.moecoder.com/2016/07/30/show-a-friendly-alert-after-app-crashes/)
 * RunTime
 * 学习资料
     * [HIT-ALIBABA 笔试面试知识整理](https://hit-alibaba.github.io/interview/)
@@ -111,6 +113,7 @@
 |chenyilong|https://www.jianshu.com/u/96a14318a4de|阿里|---|---|---|
 |唐巧|https://blog.devtang.com/|猿题库|---|---|---|
 |绿梨子红苹果|http://blog.harrisonxi.com/|阿里-天猫|bilibili|RAC|---|
+|王隆帅|https://www.jianshu.com/u/1a9cd48c3cf0|美团|---|RAC|---|
 |---|---|---|---|---|---|
 
 #### 已经不更新
